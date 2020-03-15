@@ -1,0 +1,31 @@
+{
+  "name": "delasport",
+  "version": "1.0.0",
+  "description": "Test Task - Delasport - FED",
+  "author": {
+    "name": "Ivaylo Nakov",
+    "email": "ivonakov@gmail.com",
+    "url": "http://ivonakov.info/"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivonakov/Delasport"
+  },
+  "main": "index.js",
+  "scripts": {
+    "task-1": "node task-1.js",
+    "task-2": "node task-2.js"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": "> 10.0.0",
+    "npm": "> 6.8.0",
+    "yarn": "^1.19.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
